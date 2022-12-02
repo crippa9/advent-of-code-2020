@@ -23,7 +23,6 @@ const solveFirst = async () => {
     return aggregate + 1;
   }, 0);
 
-  // console.log();
   console.log("4A. Valid passports", validPassports);
 };
 
@@ -48,7 +47,6 @@ const solveSecond = async () => {
     return aggregate + 1;
   }, 0);
 
-  console.log();
   console.log("4B. Valid passports", validPassports);
 };
 
