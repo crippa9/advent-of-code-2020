@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+   "target": "ES2017",
+   "lib": [
+     "es2015","dom","es6"
+    ],
+   "module": "commonjs",
+   "outDir": "./",
+   "sourceMap": false,
+   "strict": true
+  },
+  "include": [
+    "**.ts",
+  ],
+  "exclude": [
+    "node_modules",
+    "firefunctions"
+   ]
+}
