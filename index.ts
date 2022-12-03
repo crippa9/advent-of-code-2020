@@ -3,6 +3,7 @@ import Day2 from "./day-2";
 import Day3 from "./day-3";
 import Day4 from "./day-4";
 import Day5 from "./day-5";
+import Day6 from "./day-6";
 
 // Day1.solveFirst();
 // Day1.solveSecond();
@@ -16,5 +17,8 @@ import Day5 from "./day-5";
 // Day4.solveFirst();
 // Day4.solveSecond();
 
-Day5.solveFirst();
-Day5.solveSecond();
+// Day5.solveFirst();
+// Day5.solveSecond();
+
+// Day6.solveFirst();
+Day6.solveSecond();
